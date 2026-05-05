@@ -31,7 +31,7 @@ bool zamienSekundyNaDniIGodziny(int sekundy, int *dni, int *godziny, int *minuty
 }
 
 int main() {
-    int sekundy = -2 * 24*3600 + 5 * 3600 + 14 * 60;  // Przykładowa liczba sekund
+    int sekundy = 2 * 24*3600 + 5 * 3600 + 14 * 60;  // Przykładowa liczba sekund
     int dni = 0;
     int godziny = 0;
     int minuty = 0;
