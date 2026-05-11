@@ -1,0 +1,4 @@
+Ustawienia sterownika temperatur:
+biuro1 21
+biuro2 18.5
+biuro3 12

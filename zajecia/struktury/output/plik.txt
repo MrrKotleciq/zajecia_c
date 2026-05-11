@@ -1,0 +1,7 @@
+Marka 	Model 	Rok 	Kolor
+----------------------------------
+VW	Passat	2006	Granatowy
+BMW	M550d	2013	Czarny
+Ferrari	F50	1996	Czerwony
+Fiat	Marea	1998	Biały
+Peugeot	508	2024	Srebrny
